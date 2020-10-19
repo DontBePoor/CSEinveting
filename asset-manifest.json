@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/CSEinvesting/static/css/main.08333ebc.chunk.css",
+    "main.js": "/CSEinvesting/static/js/main.422f8343.chunk.js",
+    "main.js.map": "/CSEinvesting/static/js/main.422f8343.chunk.js.map",
+    "runtime-main.js": "/CSEinvesting/static/js/runtime-main.fb706497.js",
+    "runtime-main.js.map": "/CSEinvesting/static/js/runtime-main.fb706497.js.map",
+    "static/css/2.7ce04e15.chunk.css": "/CSEinvesting/static/css/2.7ce04e15.chunk.css",
+    "static/js/2.6880e628.chunk.js": "/CSEinvesting/static/js/2.6880e628.chunk.js",
+    "static/js/2.6880e628.chunk.js.map": "/CSEinvesting/static/js/2.6880e628.chunk.js.map",
+    "static/css/3.06890bda.chunk.css": "/CSEinvesting/static/css/3.06890bda.chunk.css",
+    "static/js/3.8aac034e.chunk.js": "/CSEinvesting/static/js/3.8aac034e.chunk.js",
+    "static/js/3.8aac034e.chunk.js.map": "/CSEinvesting/static/js/3.8aac034e.chunk.js.map",
+    "static/js/4.3a0d1534.chunk.js": "/CSEinvesting/static/js/4.3a0d1534.chunk.js",
+    "static/js/4.3a0d1534.chunk.js.map": "/CSEinvesting/static/js/4.3a0d1534.chunk.js.map",
+    "static/js/5.1185041b.chunk.js": "/CSEinvesting/static/js/5.1185041b.chunk.js",
+    "static/js/5.1185041b.chunk.js.map": "/CSEinvesting/static/js/5.1185041b.chunk.js.map",
+    "static/js/6.4e971471.chunk.js": "/CSEinvesting/static/js/6.4e971471.chunk.js",
+    "static/js/6.4e971471.chunk.js.map": "/CSEinvesting/static/js/6.4e971471.chunk.js.map",
+    "static/js/7.b14beadf.chunk.js": "/CSEinvesting/static/js/7.b14beadf.chunk.js",
+    "static/js/7.b14beadf.chunk.js.map": "/CSEinvesting/static/js/7.b14beadf.chunk.js.map",
+    "index.html": "/CSEinvesting/index.html",
+    "precache-manifest.bcbf2eb0e405dce573e398f86ff6d0ac.js": "/CSEinvesting/precache-manifest.bcbf2eb0e405dce573e398f86ff6d0ac.js",
+    "service-worker.js": "/CSEinvesting/service-worker.js",
+    "static/css/2.7ce04e15.chunk.css.map": "/CSEinvesting/static/css/2.7ce04e15.chunk.css.map",
+    "static/css/3.06890bda.chunk.css.map": "/CSEinvesting/static/css/3.06890bda.chunk.css.map",
+    "static/css/main.08333ebc.chunk.css.map": "/CSEinvesting/static/css/main.08333ebc.chunk.css.map",
+    "static/js/2.6880e628.chunk.js.LICENSE.txt": "/CSEinvesting/static/js/2.6880e628.chunk.js.LICENSE.txt",
+    "static/media/DunningCrug.jpg": "/CSEinvesting/static/media/DunningCrug.479ba6af.jpg",
+    "static/media/style.scss": "/CSEinvesting/static/media/Gilroy-Medium.9e12d605.otf",
+    "static/media/bg-img.png": "/CSEinvesting/static/media/bg-img.56a65ab2.png",
+    "static/media/laffer.jpg": "/CSEinvesting/static/media/laffer.b1ff251b.jpg",
+    "static/media/logo.png": "/CSEinvesting/static/media/logo.56a65ab2.png",
+    "static/media/logo2.jpg": "/CSEinvesting/static/media/logo2.a28f35c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb706497.js",
+    "static/css/2.7ce04e15.chunk.css",
+    "static/js/2.6880e628.chunk.js",
+    "static/css/main.08333ebc.chunk.css",
+    "static/js/main.422f8343.chunk.js"
+  ]
+}
